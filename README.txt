@@ -1,4 +1,3 @@
-commit-practice
-echo "Commit 4" >> four.txt
-git add four.txt
-git commit -m "Add four.txt"
+echo "Commit 1" >> one.txt
+git add one.txt
+git commit -m "Add one.txt"
